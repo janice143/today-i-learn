@@ -42,8 +42,8 @@ export const config: GwitterConfig = {
   },
   app: {
     onlyShowOwner: true,
-    enableAbout: true,
+    enableAbout: false,
     enableRepoSwitcher: false,
-    enableEgg: true
+    enableEgg: false
   }
 };
